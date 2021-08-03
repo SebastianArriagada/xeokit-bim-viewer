@@ -1,0 +1,29 @@
+{
+    "id": "customduplex",
+    "name": "customduplex",
+    "models": [
+        {
+            "id": "design",
+            "name": "Duplex Design"
+        }
+    ],
+    "viewerConfigs": {
+     "externalMetadata": true,
+        "backgroundColor": [
+            0.9,
+            0.9,
+            1.0
+        ]
+    },
+    "viewerContent": {
+        "modelsLoaded": [
+            "design"
+        ]
+    },
+    "viewerState": {
+        "tabOpen": "classes",
+        "expandObjectsTree": 1,
+        "expandClassesTree": 1,
+        "expandStoreysTree": 1
+    }
+}

@@ -1,6 +1,10 @@
 {
   "projects": [
     {
+      "id": "CustomDuplex",
+      "name": "CustomDuplex"
+    },
+    {
       "id": "Duplex",
       "name": "Duplex"
     },
